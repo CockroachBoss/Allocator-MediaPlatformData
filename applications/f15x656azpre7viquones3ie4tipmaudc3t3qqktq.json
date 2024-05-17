@@ -12,7 +12,6 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "001",
     "Brief history of your project and organization": "Zhejiang AOLIGEI Culture Media Co., Ltd is a cultural media platform focused on the development of artists. With accurate market positioning, we’ve won a certain market share out of many competitors. Engaged in the filed of the image promotion of internet influencers, short video planning, filming training consulting, etc., not only do we have a large number of cultural media resources, but also create their own flow of IP with the professional operation teams, helping them achieve their own dreams!\r\nOur company currently has more than 100 artists under contract, and our current business has close ties with film and television companies, social media platforms, and e-commerce.\r\n1、Cooperating with some film and TV companies to shoot TV series and advertisement promotion works.\r\n2、Cooperating with some social media platforms to publish videos, pictures and advertisements of our contracted artists.\r\n3、We also do e-commerce by selling a full range of products through live-stream media.",
     "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
     "Describe the data being stored onto Filecoin": "The data stored on Filecoin are our business videos, commercials, image and client’s video materials.",
@@ -36,11 +35,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-04-11 07:08:23.464243336 UTC",
     "Validated By": "CockroachBoss",
     "Active": true,
-    "Updated At": "2024-04-22 08:00:24.080865482 UTC",
+    "Updated At": "2024-05-17 07:09:04.945414971 UTC",
     "Active Request ID": "b0d24b53-6a9d-4d25-85b7-5ed19c5fae25",
     "On Chain Address": "f15x656azpre7viquones3ie4tipmaudc3t3qqktq",
     "Multisig Address": "false",
@@ -84,9 +83,16 @@
       "Request Type": "Refill",
       "Created At": "2024-04-22 08:00:24.080872092 UTC",
       "Updated At": "2024-04-22 08:00:24.080873146 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "1PiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "CockroachBoss",
+          "Signing Address": "f1kvvcth2eoumgdhs6otmuzsuig7owcfh2tft4gki",
+          "Created At": "2024-05-17 07:09:01.652000000 UTC",
+          "Message CID": "bafy2bzacebfom35hkbjiohbhjp7sexa66uefsw3suxsfche6bgjtymtmghr5i"
+        }
+      ]
     }
   ]
 }
