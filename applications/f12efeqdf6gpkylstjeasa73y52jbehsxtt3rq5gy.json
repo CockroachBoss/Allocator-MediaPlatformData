@@ -12,7 +12,6 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "002",
     "Brief history of your project and organization": "Hepta Labs joined Filecoin as an SP starting in 2021. In order to comply with Filecoin's plan to store the most important data of humanity, we transformed our business. We have gone through the preparatory phase and contacted nearly 20 SPs. Most expressed willingness to collaborate on our important data storage plan.",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "The dataset content includes: automatic driving, openmmlab, classical benchmark, intelligent remote sensing, intelligent medical, virtual reality, multimodal, openxdlab, intelligent education The raw data and training dataset will be backed up in 10 copies.\r\nDataset types include: text, image, video, audio, etc.\r\nThese data will be used in subsequent media campaigns and need to be backed up.",
@@ -36,11 +35,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-04-17 09:05:35.823765828 UTC",
     "Validated By": "CockroachBoss",
     "Active": true,
-    "Updated At": "2024-04-22 08:00:24.081409746 UTC",
+    "Updated At": "2024-05-17 07:11:48.742535679 UTC",
     "Active Request ID": "1291c151-0b97-4a12-a8ff-d9684aab6e4a",
     "On Chain Address": "f12efeqdf6gpkylstjeasa73y52jbehsxtt3rq5gy",
     "Multisig Address": "false",
@@ -84,9 +83,16 @@
       "Request Type": "Refill",
       "Created At": "2024-04-22 08:00:24.081418173 UTC",
       "Updated At": "2024-04-22 08:00:24.081446354 UTC",
-      "Active": true,
-      "Allocation Amount": "1PiB",
-      "Signers": []
+      "Active": false,
+      "Allocation Amount": "500TiB",
+      "Signers": [
+        {
+          "Github Username": "CockroachBoss",
+          "Signing Address": "f1kvvcth2eoumgdhs6otmuzsuig7owcfh2tft4gki",
+          "Created At": "2024-05-17 07:11:45.876000000 UTC",
+          "Message CID": "bafy2bzacecs5tinlkejkiyxivjeacvtcscgynoqvpg7wjvyz2qnyi6hrqxl2c"
+        }
+      ]
     }
   ]
 }
