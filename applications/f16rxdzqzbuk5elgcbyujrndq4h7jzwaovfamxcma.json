@@ -35,11 +35,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-11-02 19:36:01.920434174 UTC",
     "Validated By": "CockroachBoss",
     "Active": true,
-    "Updated At": "2024-11-02 19:36:01.920438511 UTC",
+    "Updated At": "2024-11-02 19:41:32.517516134 UTC",
     "Active Request ID": "7a7c6e60-e9a7-458f-a8f3-0f729334502b",
     "On Chain Address": "f16rxdzqzbuk5elgcbyujrndq4h7jzwaovfamxcma",
     "Multisig Address": "false",
@@ -83,9 +83,16 @@
       "Request Type": "Refill",
       "Created At": "2024-11-02 19:36:01.920443632 UTC",
       "Updated At": "2024-11-02 19:36:01.920444453 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "1PiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "CockroachBoss",
+          "Signing Address": "f1kvvcth2eoumgdhs6otmuzsuig7owcfh2tft4gki",
+          "Created At": "2024-11-02 19:41:30.236000000 UTC",
+          "Message CID": "bafy2bzacebto23kayr5ww2ih422it22ll3bumav63thmsetlkqkmh7kiqeolw"
+        }
+      ]
     }
   ]
 }
